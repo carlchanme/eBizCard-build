@@ -1,19 +1,33 @@
 {
   "files": {
     "main.css": "./static/css/main.efde9fa3.css",
-    "main.js": "./static/js/main.790f8240.js",
+    "main.js": "./static/js/main.21c12698.js",
     "static/js/592.ff13f246.chunk.js": "./static/js/592.ff13f246.chunk.js",
-    "static/media/insta.png": "./static/media/insta.d7e7cef46caa30ce736b.png",
-    "static/media/sample2.png": "./static/media/sample2.1f89bca39e43175bc5a6.png",
-    "static/media/fb.png": "./static/media/fb.96b5a6ac43de070a3191.png",
-    "static/media/link.png": "./static/media/link.c1bcd6df945f683f6e18.png",
+    "static/media/wm_pb_smart_elite.png": "./static/media/wm_pb_smart_elite.b5eaa48299d2a22dcd77.png",
+    "static/media/cc_master_word.png": "./static/media/cc_master_word.30bd0da667118dd8fb21.png",
+    "static/media/wm_empower_2.png": "./static/media/wm_empower_2.5a83152a51470108b333.png",
+    "static/media/wm_gold_invst_acc.png": "./static/media/wm_gold_invst_acc.379d5dc087bbc69ff2ca.png",
+    "static/media/hl_5home_plan.png": "./static/media/hl_5home_plan.45b26fd07c1cbfce70d4.png",
+    "static/media/wm_alpha_edu.png": "./static/media/wm_alpha_edu.2cddb54b1569877802e6.png",
+    "static/media/vf_fin_calc.png": "./static/media/vf_fin_calc.a05f33b75901c8c70a38.png",
+    "static/media/cc_visa_infinite.png": "./static/media/cc_visa_infinite.2929137332e31649b926.png",
+    "static/media/hl_affordability_calc.png": "./static/media/hl_affordability_calc.1a85f3dea1a7c3a1392c.png",
+    "static/media/cc_visa_signature.png": "./static/media/cc_visa_signature.68e6a80c20d6048fe1a5.png",
+    "static/media/cc_card_repayment_calc.png": "./static/media/cc_card_repayment_calc.c4e407d77bad17215ac6.png",
+    "static/media/vf_affordability_calc.png": "./static/media/vf_affordability_calc.de6c6ec9398569ceef0d.png",
+    "static/media/wm_ut.png": "./static/media/wm_ut.540fc15bdb141b54a803.png",
+    "static/media/hl_more_plan.png": "./static/media/hl_more_plan.af292f3768597c24725a.png",
+    "static/media/hl_loan_calc.png": "./static/media/hl_loan_calc.e4ecd522cbad43ea7901.png",
+    "static/media/cc_card_finder.png": "./static/media/cc_card_finder.286b6720a0dcd8b7c82a.png",
+    "static/media/session-icon.png": "./static/media/session-icon.0f1da3a5515fbaebebd1.png",
+    "static/media/pbb-logo-with-text.png": "./static/media/pbb-logo-with-text.a1a9e4d70377f13cdf60.png",
     "index.html": "./index.html",
     "main.efde9fa3.css.map": "./static/css/main.efde9fa3.css.map",
-    "main.790f8240.js.map": "./static/js/main.790f8240.js.map",
+    "main.21c12698.js.map": "./static/js/main.21c12698.js.map",
     "592.ff13f246.chunk.js.map": "./static/js/592.ff13f246.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.efde9fa3.css",
-    "static/js/main.790f8240.js"
+    "static/js/main.21c12698.js"
   ]
 }
