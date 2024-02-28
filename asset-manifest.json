@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.25ac4134.css",
-    "main.js": "./static/js/main.e2b4689f.js",
+    "main.js": "./static/js/main.eb245653.js",
     "static/js/592.ff13f246.chunk.js": "./static/js/592.ff13f246.chunk.js",
     "static/media/wm_pb_smart_elite.png": "./static/media/wm_pb_smart_elite.b5eaa48299d2a22dcd77.png",
     "static/media/cc_master_word.png": "./static/media/cc_master_word.30bd0da667118dd8fb21.png",
@@ -22,11 +22,11 @@
     "static/media/pbb-logo-with-text.png": "./static/media/pbb-logo-with-text.a1a9e4d70377f13cdf60.png",
     "index.html": "./index.html",
     "main.25ac4134.css.map": "./static/css/main.25ac4134.css.map",
-    "main.e2b4689f.js.map": "./static/js/main.e2b4689f.js.map",
+    "main.eb245653.js.map": "./static/js/main.eb245653.js.map",
     "592.ff13f246.chunk.js.map": "./static/js/592.ff13f246.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.25ac4134.css",
-    "static/js/main.e2b4689f.js"
+    "static/js/main.eb245653.js"
   ]
 }
